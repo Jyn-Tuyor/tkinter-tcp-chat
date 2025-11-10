@@ -53,7 +53,7 @@ It allows multiple clients to connect to a server and exchange messages in real 
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/<your-username>/tkinter-tcp-chat.git
+git clone https://github.com/Jyn-Tuyor/tkinter-tcp-chat.git
 cd tkinter-tcp-chat
 ```
 
