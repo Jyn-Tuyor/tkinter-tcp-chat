@@ -81,7 +81,7 @@ python server.py
 
 ---
 
-## ❤️ Acknowledgments
+## ...
 
 Built for learning **network programming** and **GUI design** with Python.  
 Feel free to fork, improve, and contribute!
